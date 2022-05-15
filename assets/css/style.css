@@ -69,6 +69,11 @@ nav {
     background-position: 0 -100px;
     text-align: center;
 }
+.backgound-banner .banner-color{
+    height: 700px;
+    width: 100%;
+    background-color: #00000048;
+}
 
 
 .backgound-banner-400 {
